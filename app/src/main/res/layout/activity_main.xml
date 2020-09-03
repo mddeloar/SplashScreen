@@ -40,7 +40,7 @@ tools:context="com.example.mddeloarhossain.splashscreen.MainActivity">
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Mr Panda Risky"
+        android:text="Md. Deloar Hossain"
         android:textColor="#FFF"
         android:textSize="16sp" />
 
